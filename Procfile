@@ -1,1 +1,1 @@
-worker: payton fortnite.py
+worker: payton fortnite_update.py
